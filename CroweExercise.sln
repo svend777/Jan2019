@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedData", "SharedData\Sh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OracleLoggingService", "OracleLoggingService\OracleLoggingService.csproj", "{E9DC50B5-A5D4-4F15-952A-A22C56408B32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLoggingService", "ConsoleLoggingService\ConsoleLoggingService.csproj", "{B1BC16C2-CDCD-46ED-A231-D0F8FEC8F40F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleLoggingService", "ConsoleLoggingService\ConsoleLoggingService.csproj", "{B1BC16C2-CDCD-46ED-A231-D0F8FEC8F40F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CBE30BA6-586C-47C1-9F14-08A03E515867}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -54,6 +56,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A2BE752A-BF59-4338-AEC4-77B80BDDF879} = {CBE30BA6-586C-47C1-9F14-08A03E515867}
+		{E9DC50B5-A5D4-4F15-952A-A22C56408B32} = {CBE30BA6-586C-47C1-9F14-08A03E515867}
+		{B1BC16C2-CDCD-46ED-A231-D0F8FEC8F40F} = {CBE30BA6-586C-47C1-9F14-08A03E515867}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {58E28A15-D1A4-4D2B-808E-B025291D131A}
