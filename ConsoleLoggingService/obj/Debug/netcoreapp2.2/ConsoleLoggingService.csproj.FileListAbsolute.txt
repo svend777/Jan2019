@@ -1,0 +1,11 @@
+D:\MISC\Jan2019\ConsoleLoggingService\obj\Debug\netcoreapp2.2\ConsoleLoggingService.csproj.CoreCompileInputs.cache
+D:\MISC\Jan2019\ConsoleLoggingService\obj\Debug\netcoreapp2.2\ConsoleLoggingService.AssemblyInfoInputs.cache
+D:\MISC\Jan2019\ConsoleLoggingService\obj\Debug\netcoreapp2.2\ConsoleLoggingService.AssemblyInfo.cs
+D:\MISC\Jan2019\ConsoleLoggingService\bin\Debug\netcoreapp2.2\ConsoleLoggingService.deps.json
+D:\MISC\Jan2019\ConsoleLoggingService\bin\Debug\netcoreapp2.2\ConsoleLoggingService.dll
+D:\MISC\Jan2019\ConsoleLoggingService\bin\Debug\netcoreapp2.2\ConsoleLoggingService.pdb
+D:\MISC\Jan2019\ConsoleLoggingService\bin\Debug\netcoreapp2.2\Misc.dll
+D:\MISC\Jan2019\ConsoleLoggingService\bin\Debug\netcoreapp2.2\Misc.pdb
+D:\MISC\Jan2019\ConsoleLoggingService\obj\Debug\netcoreapp2.2\ConsoleLoggingService.csproj.CopyComplete
+D:\MISC\Jan2019\ConsoleLoggingService\obj\Debug\netcoreapp2.2\ConsoleLoggingService.dll
+D:\MISC\Jan2019\ConsoleLoggingService\obj\Debug\netcoreapp2.2\ConsoleLoggingService.pdb

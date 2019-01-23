@@ -1,0 +1,17 @@
+C:\Users\whisve01\source\repos\CroweExercise\SharedData\bin\Debug\netcoreapp2.2\SharedData.deps.json
+C:\Users\whisve01\source\repos\CroweExercise\SharedData\bin\Debug\netcoreapp2.2\SharedData.dll
+C:\Users\whisve01\source\repos\CroweExercise\SharedData\bin\Debug\netcoreapp2.2\SharedData.pdb
+C:\Users\whisve01\source\repos\CroweExercise\SharedData\obj\Debug\netcoreapp2.2\SharedData.csprojAssemblyReference.cache
+C:\Users\whisve01\source\repos\CroweExercise\SharedData\obj\Debug\netcoreapp2.2\SharedData.csproj.CoreCompileInputs.cache
+C:\Users\whisve01\source\repos\CroweExercise\SharedData\obj\Debug\netcoreapp2.2\SharedData.AssemblyInfoInputs.cache
+C:\Users\whisve01\source\repos\CroweExercise\SharedData\obj\Debug\netcoreapp2.2\SharedData.AssemblyInfo.cs
+C:\Users\whisve01\source\repos\CroweExercise\SharedData\obj\Debug\netcoreapp2.2\SharedData.dll
+C:\Users\whisve01\source\repos\CroweExercise\SharedData\obj\Debug\netcoreapp2.2\SharedData.pdb
+D:\MISC\Jan2019\SharedData\bin\Debug\netcoreapp2.2\SharedData.deps.json
+D:\MISC\Jan2019\SharedData\bin\Debug\netcoreapp2.2\SharedData.dll
+D:\MISC\Jan2019\SharedData\bin\Debug\netcoreapp2.2\SharedData.pdb
+D:\MISC\Jan2019\SharedData\obj\Debug\netcoreapp2.2\SharedData.csproj.CoreCompileInputs.cache
+D:\MISC\Jan2019\SharedData\obj\Debug\netcoreapp2.2\SharedData.AssemblyInfoInputs.cache
+D:\MISC\Jan2019\SharedData\obj\Debug\netcoreapp2.2\SharedData.AssemblyInfo.cs
+D:\MISC\Jan2019\SharedData\obj\Debug\netcoreapp2.2\SharedData.dll
+D:\MISC\Jan2019\SharedData\obj\Debug\netcoreapp2.2\SharedData.pdb

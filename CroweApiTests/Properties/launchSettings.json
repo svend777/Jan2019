@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CroweApiTests": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\whisve01\\source\\repos\\TodoApi\\TodoApi\\bin\\Debug\\netcoreapp2.2\\TodoApi.dll"
+    }
+  }
+}

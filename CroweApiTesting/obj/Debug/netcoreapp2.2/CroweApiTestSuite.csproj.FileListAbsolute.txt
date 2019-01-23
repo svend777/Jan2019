@@ -1,0 +1,14 @@
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\bin\Debug\netcoreapp2.2\CroweApiTestSuite.deps.json
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\bin\Debug\netcoreapp2.2\CroweApiTestSuite.runtimeconfig.json
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\bin\Debug\netcoreapp2.2\CroweApiTestSuite.runtimeconfig.dev.json
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\bin\Debug\netcoreapp2.2\CroweApiTestSuite.dll
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\bin\Debug\netcoreapp2.2\CroweApiTestSuite.pdb
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\obj\Debug\netcoreapp2.2\CroweApiTestSuite.csprojAssemblyReference.cache
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\obj\Debug\netcoreapp2.2\CroweApiTestSuite.csproj.CoreCompileInputs.cache
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\obj\Debug\netcoreapp2.2\CroweApiTestSuite.AssemblyInfoInputs.cache
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\obj\Debug\netcoreapp2.2\CroweApiTestSuite.AssemblyInfo.cs
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\obj\Debug\netcoreapp2.2\CroweApiTestSuite.dll
+C:\Users\whisve01\source\repos\TodoApi\CroweApiTesting\obj\Debug\netcoreapp2.2\CroweApiTestSuite.pdb

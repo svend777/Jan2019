@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CroweExercise", "CroweExercise\CroweExercise.csproj", "{FE009860-F08F-4421-9932-E7C67374941C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Misc", "Misc\Misc.csproj", "{1C043463-FC4A-44D6-9791-A04251E4C39E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "CroweApiTests\Tests.csproj", "{AB9DB767-24C0-4527-8C27-110DA7DFD868}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlServerLoggingService", "SqlServerLoggingService\SqlServerLoggingService.csproj", "{A2BE752A-BF59-4338-AEC4-77B80BDDF879}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedData", "SharedData\SharedData.csproj", "{01164A38-EB82-4303-880E-353FD2613CC9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OracleLoggingService", "OracleLoggingService\OracleLoggingService.csproj", "{E9DC50B5-A5D4-4F15-952A-A22C56408B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLoggingService", "ConsoleLoggingService\ConsoleLoggingService.csproj", "{B1BC16C2-CDCD-46ED-A231-D0F8FEC8F40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE009860-F08F-4421-9932-E7C67374941C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE009860-F08F-4421-9932-E7C67374941C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE009860-F08F-4421-9932-E7C67374941C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE009860-F08F-4421-9932-E7C67374941C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C043463-FC4A-44D6-9791-A04251E4C39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C043463-FC4A-44D6-9791-A04251E4C39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C043463-FC4A-44D6-9791-A04251E4C39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C043463-FC4A-44D6-9791-A04251E4C39E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9DB767-24C0-4527-8C27-110DA7DFD868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9DB767-24C0-4527-8C27-110DA7DFD868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9DB767-24C0-4527-8C27-110DA7DFD868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9DB767-24C0-4527-8C27-110DA7DFD868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2BE752A-BF59-4338-AEC4-77B80BDDF879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BE752A-BF59-4338-AEC4-77B80BDDF879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BE752A-BF59-4338-AEC4-77B80BDDF879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BE752A-BF59-4338-AEC4-77B80BDDF879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01164A38-EB82-4303-880E-353FD2613CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01164A38-EB82-4303-880E-353FD2613CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01164A38-EB82-4303-880E-353FD2613CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01164A38-EB82-4303-880E-353FD2613CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DC50B5-A5D4-4F15-952A-A22C56408B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DC50B5-A5D4-4F15-952A-A22C56408B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DC50B5-A5D4-4F15-952A-A22C56408B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DC50B5-A5D4-4F15-952A-A22C56408B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1BC16C2-CDCD-46ED-A231-D0F8FEC8F40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BC16C2-CDCD-46ED-A231-D0F8FEC8F40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BC16C2-CDCD-46ED-A231-D0F8FEC8F40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BC16C2-CDCD-46ED-A231-D0F8FEC8F40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58E28A15-D1A4-4D2B-808E-B025291D131A}
+	EndGlobalSection
+EndGlobal
