@@ -41,3 +41,4 @@ D:\MISC\Jan2019\Misc\obj\Debug\netcoreapp2.2\Misc.AssemblyInfoInputs.cache
 D:\MISC\Jan2019\Misc\obj\Debug\netcoreapp2.2\Misc.AssemblyInfo.cs
 D:\MISC\Jan2019\Misc\obj\Debug\netcoreapp2.2\Misc.dll
 D:\MISC\Jan2019\Misc\obj\Debug\netcoreapp2.2\Misc.pdb
+D:\MISC\Jan2019\Misc\obj\Debug\netcoreapp2.2\Misc.csprojAssemblyReference.cache

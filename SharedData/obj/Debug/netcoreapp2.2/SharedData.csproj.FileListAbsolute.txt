@@ -15,3 +15,4 @@ D:\MISC\Jan2019\SharedData\obj\Debug\netcoreapp2.2\SharedData.AssemblyInfoInputs
 D:\MISC\Jan2019\SharedData\obj\Debug\netcoreapp2.2\SharedData.AssemblyInfo.cs
 D:\MISC\Jan2019\SharedData\obj\Debug\netcoreapp2.2\SharedData.dll
 D:\MISC\Jan2019\SharedData\obj\Debug\netcoreapp2.2\SharedData.pdb
+D:\MISC\Jan2019\SharedData\obj\Debug\netcoreapp2.2\SharedData.csprojAssemblyReference.cache

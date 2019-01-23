@@ -9,3 +9,4 @@ D:\MISC\Jan2019\ConsoleLoggingService\bin\Debug\netcoreapp2.2\Misc.pdb
 D:\MISC\Jan2019\ConsoleLoggingService\obj\Debug\netcoreapp2.2\ConsoleLoggingService.csproj.CopyComplete
 D:\MISC\Jan2019\ConsoleLoggingService\obj\Debug\netcoreapp2.2\ConsoleLoggingService.dll
 D:\MISC\Jan2019\ConsoleLoggingService\obj\Debug\netcoreapp2.2\ConsoleLoggingService.pdb
+D:\MISC\Jan2019\ConsoleLoggingService\obj\Debug\netcoreapp2.2\ConsoleLoggingService.csprojAssemblyReference.cache
