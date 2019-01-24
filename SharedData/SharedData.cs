@@ -6,7 +6,7 @@ namespace SharedData
     {
 
         /* These are the secrets that would populated based on the user and the environment involved (QA1, QA2, Staging1, Prod1, ...).
-         In this case, I'm pulling the 1st one from a local env variable, but we'd probably use using soething like Spring Cloud via SteelToe, 
+         In this case, I'm pulling them from local env variables, but we'd probably use using something like Spring Cloud via SteelToe, 
          Azure Key Vault, etc.  */
         public static string CroweExercise_ConnString_SqlServer { get; set; }
         public static string CroweExercise_ConnString_Oracle { get; set; }
